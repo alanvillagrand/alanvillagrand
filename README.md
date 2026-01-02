@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Alan 👋
 
 <!--
 **alanvillagrand/alanvillagrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About me:
+- Software Engineer Intern at Brazos Innovation Partners
+- Computer Science student at Baylor University
+- Interests in web, systems, and infrastructure
+
+Experience:
+- Software Engineer Intern @ Brazos Innovation Partners
+- Undergraduate researcher @ Baylor University
